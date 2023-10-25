@@ -1,0 +1,1 @@
+ `{isActivated && <p>Function is activated!</p>}` is used to render the paragraph element only when the isActivated variable is true. So when the button is clicked and the isActivated variable is set to true, the paragraph element will be rendered.
